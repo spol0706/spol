@@ -1,16 +1,4 @@
-@font-face {
-  font-family: 'NeoDunggeunmo';
-  src: url('./fonts/neodgm.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'NeoDunggeunmo';
-  src: url('./fonts/neodgm.woff') format('woff');
-  font-weight: 700;
-  font-style: normal;
-}
+@import url('https://cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@latest/neodgm/style.css');
 
 :root {
   --bg: #0a0a12;
